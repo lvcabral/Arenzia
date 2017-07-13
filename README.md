@@ -6,4 +6,4 @@ Arenzia is a 2D platformer game that is designed for the use on a Arcade Machine
 
 
 # Screenshot with the debugconsole on
-![Arenzia](screenshot00.png.png?raw=true "arenzia")
+![Arenzia](/screenshot00.png?raw=true "arenzia")
