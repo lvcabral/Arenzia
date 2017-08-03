@@ -26,19 +26,19 @@ Welcome !
 
 ## Playing
 
+#### Required
 Arenzia requires Java 8 - [download it here](https://www.java.com/en/download/). 
 
-Also make sure your graphics card driver is up to date.
+Also make sure your graphics card driver is up to date. 
 
-## Start game
-
+#### Start playing
 To run Arenzia use the following comand, depending on your OS:
 
 <table>
 <tr><td>- Windows </td><td> `java -jar arenzia[v0.0.3].jar`			  </td></tr>				
 <tr><td>- MacOS   </td><td> `java -cp BuildResume.jar menu.Menu` 		  </td></tr>				
 <tr><td>- Unix    </td><td> `chmod +x arenzia[v0.0.3].jar; ./arenzia[v0.0.3].jar` </td></tr>	 	
-
+</table>
 	
 ## License
 
@@ -50,3 +50,4 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
+
