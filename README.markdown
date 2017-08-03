@@ -8,6 +8,8 @@
 
 Welcome !
 
+(Comming soon)
+
 
 
 
@@ -15,11 +17,11 @@ Welcome !
 
 > Archer attack
 
-![Screenshot: attacking archer](/img/archerAttack.png?raw=true)
+![Screenshot: attacking archer](/img/archerAttack.png?raw=true) (Comming soon)
 
 > Activated console
 
-![Screenshot: activated console](/img/console.png?raw=true)
+![Screenshot: activated console](/img/console.png?raw=true) (Comming soon)
 
 
 ## Playing
