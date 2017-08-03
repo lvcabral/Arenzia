@@ -1,5 +1,11 @@
 # Arenzia
 
+[![Version](https://img.shields.io/badge/varsion-v0.0.3-orange.svg)]
+[![Stars](https://img.shields.io/github/stars/NBprojekt/Arenzia.svg)]
+[![License](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)]
+[![Open issues](https://img.shields.io/github/issues/NBprojekt/Arenzia.svg)]
+
+
 Welcome !
 
 
@@ -26,9 +32,9 @@ Also make sure your graphics card driver is up to date.
 
 To run Arenzia use the following comand, depending on your OS:
  
-- Windows     `./arenzia[v0.0.3].jar`
-- iOS         `./arenzia[v0.0.3].jar`
-- Unix        `./arenzia[v0.0.3].jar` 
+- Windows     `java -jar arenzia[v0.0.3].jar`
+- iOS         `java -jar arenzia[v0.0.3].jar`
+- Unix        `chmod +x arenzia[v0.0.3].jar; ./arenzia[v0.0.3].jar` 
 
 
 ## License
