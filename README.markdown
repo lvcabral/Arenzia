@@ -34,11 +34,10 @@ Also make sure your graphics card driver is up to date.
 #### Start playing
 To run Arenzia use the following comand, depending on your OS:
 
-<table>
-<tr><td>- Windows </td><td> `java -jar arenzia[v0.0.3].jar`			  </td></tr>				
-<tr><td>- MacOS   </td><td> `java -cp BuildResume.jar menu.Menu` 		  </td></tr>				
-<tr><td>- Unix    </td><td> `chmod +x arenzia[v0.0.3].jar; ./arenzia[v0.0.3].jar` </td></tr>	 	
-</table>
+| Windows | MacOS | Unix | 
+| ------------- |:-------------:| -----:|
+|`java -jar arenzia[v0.0.3].jar` |`java -cp BuildResume.jar menu.Menu` |`chmod +x arenzia[v0.0.3].jar; ./arenzia[v0.0.3].jar` |
+
 	
 ## License
 
