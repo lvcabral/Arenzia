@@ -26,14 +26,14 @@ Also make sure your graphics card driver is up to date.
 
 To run Arenzia use the following comand, depending on your OS:
  
-- Windows \t`./arenzia[v0.0.3].jar`
-- iOS  \t\t`./arenzia[v0.0.3].jar`
-- Unix \t\t`./arenzia[v0.0.3].jar` 
+- Windows     `./arenzia[v0.0.3].jar`
+- iOS         `./arenzia[v0.0.3].jar`
+- Unix        `./arenzia[v0.0.3].jar` 
 
 
 ## License
 
-![GNU GPLv3 Image](/img/gpl.png?raw=true "GPLv3 Logo")
+![GNU GPLv3 Image](/img/gpl.png?raw=true)
 
 This program is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
