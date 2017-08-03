@@ -17,12 +17,18 @@ Welcome !
 
 
 ## Playing
+
 Arenzia requires Java 8 - [download it here](https://www.java.com/en/download/). 
 
 Also make sure your graphics card driver is up to date.
 
-To start Arenzia your just have to doubleclick the "arenzia[v0.0.3].jar", or under unix
-you run the comand './arenzia[v0.0.3].jar'.
+## Start game
+
+To run Arenzia use the following comand, depending on your OS:
+ 
+- Windows \t`./arenzia[v0.0.3].jar`
+- iOS  \t\t`./arenzia[v0.0.3].jar`
+- Unix \t\t`./arenzia[v0.0.3].jar` 
 
 
 ## License
