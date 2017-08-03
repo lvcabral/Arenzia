@@ -8,10 +8,12 @@ Welcome !
 ## Preview
 
 > Archer attack
-![arenzia](/img/archerAttack.png?raw=true "Screenshot: attacking archer")
+
+![Screenshot: attacking archer](/img/archerAttack.png?raw=true)
 
 > Activated console
-![arenzia](/img/console.png?raw=true "Screenshot: activated console")
+
+![Screenshot: activated console](/img/console.png?raw=true)
 
 
 ## Playing
