@@ -43,7 +43,7 @@ To run Arenzia use the following comand, depending on your OS:
 
 ![GNU GPLv3 Image](/img/gpl.png?raw=true)
 
-This program is Free Software:
+This program is Free Software:<br>
 You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
