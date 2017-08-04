@@ -1,9 +1,9 @@
 # Arenzia
 
-![Version](https://img.shields.io/badge/version-v0.0.3-orange.svg)
-![Stars](https://img.shields.io/github/stars/NBprojekt/Arenzia.svg)
-![License](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)
-![Open issues](https://img.shields.io/github/issues/NBprojekt/Arenzia.svg)
+![Release](https://img.shields.io/badge/release-v0.0.3-orange.svg)
+[![Stars](https://img.shields.io/github/stars/NBprojekt/Arenzia.svg)](https://github.com/NBprojekt/arenzia/stargazers)
+[![License](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)](https://www.gnu.org/licenses/gpl.html)
+[![Open issues](https://img.shields.io/github/issues/NBprojekt/Arenzia.svg)](https://github.com/NBprojekt/arenzia/issues)
 
 
 Welcome !
@@ -41,7 +41,7 @@ To run Arenzia use the following comand, depending on your OS:
 	
 ## License
 
-![GNU GPLv3 Image](/img/gpl.png?raw=true)
+![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 This program is Free Software:<br>
 You can use, study share and improve it at your
