@@ -1,7 +1,7 @@
 # Arenzia
 
 ![Release](https://img.shields.io/badge/release-v0.0.3-orange.svg)
-![Build](https://img.shields.io/badge/build-passing-orange.svg)
+![Build](https://img.shields.io/badge/build-paused-orange.svg)
 [![Stars](https://img.shields.io/github/stars/NBprojekt/Arenzia.svg)](https://github.com/NBprojekt/arenzia/stargazers)
 [![License](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)](https://www.gnu.org/licenses/gpl.html)
 [![Open issues](https://img.shields.io/github/issues/NBprojekt/Arenzia.svg)](https://github.com/NBprojekt/arenzia/issues)
