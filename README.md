@@ -21,7 +21,7 @@ Welcome !
 
 > Activated console
 
-![Screenshot: activated console](/img/screensoht1.png?raw=true) 
+![Screenshot: activated console](/img/screenshot1.png?raw=true) 
 
 
 ## Playing
