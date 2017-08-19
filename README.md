@@ -1,6 +1,6 @@
 # Arenzia
 
-![Version](https://img.shields.io/badge/varsion-v0.0.3-orange.svg)
+![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg)
 ![Stars](https://img.shields.io/github/stars/NBprojekt/Arenzia.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)
 ![Open issues](https://img.shields.io/github/issues/NBprojekt/Arenzia.svg)
